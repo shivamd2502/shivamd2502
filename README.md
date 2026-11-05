@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="mailto:shivamdapkekar25@gmail.com"><img src="https://img.shields.io/badge/Email-shivamdapkekar25%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shivam-dapkekar-370980292/"><img src="https://img.shields.io/badge/LinkedIn-Shivam%20Dapkekar-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/shivam_d2502"><img src="https://img.shields.io/badge/X-@shivam__d2502-000000?style=flat&logo=x&logoColor=white"></a>
 </p>
 
@@ -88,8 +89,7 @@ numbers were measured.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 </p>
 
-**Areas:** machine learning · deep learning · computer vision · image processing · SAR remote sensing ·
-control theory · process instrumentation · PLC programming · P&ID · sensors & transducers
+**Areas:** machine learning · deep learning · computer vision · image processing · SAR remote sensing
 
 ---
 
