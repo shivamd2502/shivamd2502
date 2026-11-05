@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shivam Dapkekar 👋</h1>
+<h1 align="center">Hi, I'm Shivam Dapkekar </h1>
 <p align="center">
   <b>AI / Computer Vision · Remote Sensing · Control Systems</b><br>
   4th-year B.Tech, Instrumentation &amp; Control Engineering, Vishwakarma Institute of Technology, Pune (2023–2027)
